@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://voagheeghi.womenintechto.com/sitemap.xml
